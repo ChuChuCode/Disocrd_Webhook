@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const ping = require('minecraft-server-util');
 
-const token ='NzI2NzIwNDk2Mjg0MDc0MDM0.Xvhgnw.j7s_bGwvlZGyAmjDg5FUQ_b67s0';
+const token ='';
 //login
 
 const PREFIX = "!";
